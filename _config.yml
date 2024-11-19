@@ -7,7 +7,7 @@ title: Hexo
 subtitle: ""
 description: ""
 keywords:
-author: John Doe
+author: htb
 language: en
 timezone: ""
 
@@ -60,7 +60,7 @@ prismjs:
 # per_page: Posts displayed per page. (0 = disable pagination)
 # order_by: Posts order. (Order by date descending by default)
 index_generator:
-  path: "/source/001"
+  path: ""
   per_page: 10
   order_by: -date
 
